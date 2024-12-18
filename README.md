@@ -15,7 +15,8 @@ pip install -r requirements.txt
 任意の期間の歩数のデータの平均，第一四分位数，中央値，第三四分位数を曜日ごと出力します．
 デフォルトでは，10分間のデータをもとに計算を行います．
 ### 実行結果
-![image](https://github.com/user-attachments/assets/9ff05bb6-6a6f-4196-9dab-57fd5d236e1e)
+![image](https://github.com/user-attachments/assets/8d82f3d8-4923-416f-9a90-84c78beeecca)
+
 
 q1は第一四分位数，medianは中央値，q3は第三四分位数，avgは平均を表しています．
 
@@ -24,6 +25,7 @@ q1は第一四分位数，medianは中央値，q3は第三四分位数，avgは�
 デフォルトでは，今回基礎実験の対象期間であった2024/8/8~2024/10/16の10週間分の期間のデータを参照したグラフを出力します．
 プロットは10分間隔です．
 1回の実行で1週間分のグラフが出力されます．
+グラフ
 ### 実行結果
 ![image](https://github.com/user-attachments/assets/b131863e-dd00-4f1c-b0f5-8c5c69890045)
 
